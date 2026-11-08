@@ -1,0 +1,14 @@
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+scikit-learn
+rdkit
+pubchempy
+pymatgen
+mp-api
+pygaps
+openpyxl
+xlrd
+jupyterlab
