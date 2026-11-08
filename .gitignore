@@ -1,0 +1,11 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.env
+# course datasets are not redistributed
+03_solubility_regression/data/
+04_bbbp_classification/data/
+06_groundwater_quality_eda/data/
+02_pymatgen_materials_project/data/material_descriptors.csv
+05_pubchem_rdkit/data/mols_with_properties.csv
+05_pubchem_rdkit/data/mol_descriptors.csv
